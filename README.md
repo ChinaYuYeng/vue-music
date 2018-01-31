@@ -20,6 +20,6 @@ npm run build --report
 
 
 查看效果：
-![你暂时无法查看图片](https://github.com/ChinaYuYeng/vue-music/blob/master/static/img/qr-code.png)
+![你暂时无法查看图片](/vue-music/blob/master/static/img/qr-code.png)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
